@@ -48,7 +48,7 @@ public class Main {
 
         var summaryBoxerWeight = firstBoxerWeight + secondBoxerWeight;
 
-        System.out.println("Масса двух бойцов = " + summaryBoxerWeight);
+        System.out.println("Общая масса двух бойцов = " + summaryBoxerWeight);
 
         var boxerWeightDifference = firstBoxerWeight - secondBoxerWeight;
         System.out.println("Разница в весе двух бойцов = " + boxerWeightDifference);
